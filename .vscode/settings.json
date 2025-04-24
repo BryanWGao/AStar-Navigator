@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "map.h": "c",
+        "path.h": "c",
+        "stdbool.h": "c",
+        "string.h": "c"
+    }
+}

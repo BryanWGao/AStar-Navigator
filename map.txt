@@ -1,0 +1,25 @@
+S.......##
+..##......
+R...T.#...
+...RA..##.
+#..R....#.
+.B.T.R...T
+##..#R#...
+..R....#..
+..#.....T.
+..##...R.E
+
+
+S: Start point
+
+E: End point
+
+.: Walkable road
+
+#: Wall or obstacle
+
+A, B: Waypoints to visit (in order)
+
+R: Traffic light (higher traversal cost)
+
+t: Traffic jam (even higher traversal cost)
